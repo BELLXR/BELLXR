@@ -3,7 +3,7 @@
 นำเข้า เกลียว
 จาก การทำเกลียว นำเข้า Thread
 พิมพ์ ( "" )
-print ( "Bellx2TH" )
+print ( " Bellx2TH " )
 พิมพ์ ( "" )
 phone  =  input ( "เบอร์ : " )
 NUM  =  int ( อินพุต ( "จำนวน: " ))
